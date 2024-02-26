@@ -1,0 +1,5 @@
+&BANDS
+outdir = './tmp/'
+prefix = 'BS'
+filband = 'BS.bands'
+/
