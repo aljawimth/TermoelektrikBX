@@ -1,0 +1,8 @@
+&DOS
+outdir = './tmp/'
+prefix = 'BS'
+fildos = 'BS.dos'
+emin = -15
+emax =  15
+/
+
